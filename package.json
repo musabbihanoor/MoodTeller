@@ -17,7 +17,7 @@
   "devDependencies": {},
   "scripts": {
     "server": "nodemon server",
-    "client": "npm start --prefix mood-teller",
+    "client": "npm start --prefix client",
     "app": "concurrently \"npm run server\" \"npm run client\"",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
