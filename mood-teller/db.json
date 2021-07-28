@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "name": "Happy",
+      "file": "😄",
+      "background": "#ffffb5"
+    },
+    {
+      "name": "Sad",
+      "file": "☹️",
+      "background": "#a2e1db"
+    },
+    {
+      "name": "Empty",
+      "file": "🤥",
+      "background": "#cce2cb"
+    },
+    {
+      "name": "Angry",
+      "file": "🤬",
+      "background": "#ff968a"
+    },
+    {
+      "name": "Lonely",
+      "file": "😔",
+      "background": "#86cfb6"
+    },
+    {
+      "name": "Hungry",
+      "file": "🥺",
+      "background": "#97c1a9"
+    },
+    {
+      "name": "In love",
+      "file": "🥰",
+      "background": "#ffaea5"
+    },
+    {
+      "name": "Excited",
+      "file": "🥳",
+      "background": "#f3b0c3"
+    },
+    {
+      "name": "Anxious",
+      "file": "🤯",
+      "background": "#8fcaca"
+    }
+  ]
+}

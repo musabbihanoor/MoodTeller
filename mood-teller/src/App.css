@@ -1,0 +1,46 @@
+body {
+  background: #7f00ff;
+  font-family: "Quicksand", sans-serif;
+}
+
+h1 {
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+  font-size: 70px;
+}
+
+p {
+  font-size: 70px;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.select {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.choice {
+  width: 25%;
+  margin: 20px;
+  border-radius: 50px;
+  padding: 30px;
+}
+
+button {
+  border: #67bf6b;
+  background-color: #a1cd49;
+  height: 40px;
+  width: 70px;
+  color: #fff;
+  border-radius: 50px;
+}
+
+.mood {
+  padding: 20px;
+}
+
+.mood p {
+  font-size: 150px;
+}
