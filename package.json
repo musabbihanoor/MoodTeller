@@ -19,7 +19,7 @@
     "server": "nodemon server",
     "client": "npm start --prefix mood-teller",
     "app": "concurrently \"npm run server\" \"npm run client\"",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix mood-teller && npm run build --prefix mood-teller"
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
   "author": "",
   "license": "ISC"
